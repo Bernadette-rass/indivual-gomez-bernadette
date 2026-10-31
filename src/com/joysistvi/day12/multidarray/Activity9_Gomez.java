@@ -2,7 +2,7 @@ package com.joysistvi.day12.multidarray;
 
 import java.util.Scanner;
 
-public class Activity12_Gomez {
+public class Activity9_Gomez {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

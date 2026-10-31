@@ -1,6 +1,6 @@
 package com.joysistvi.day13.string;
 
-public class Activity13_Gomez {
+public class Activity10_Gomez {
     public static void main(String[] args) {
 
                 String country = "Philippines";
