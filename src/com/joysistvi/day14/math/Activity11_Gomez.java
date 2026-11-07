@@ -12,7 +12,7 @@ public class Activity11_Gomez {
             System.out.println("=== Research Phase ===");
 
             // 1. Math.abs()
-            System.out.println("Absolute Value: " + Math.abs(78));
+            System.out.println("Absolute Value: " + Math.abs(785454));
 
             // 2. Math.max()
             System.out.println("Maximum: " + Math.max(10, 7));
