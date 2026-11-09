@@ -290,4 +290,5 @@ public class Activity12_Gomez {;
                 System.out.println("Invalid Input. Please enter a number from " + min + " to " + max + ".");
             }
         }
+
 }
